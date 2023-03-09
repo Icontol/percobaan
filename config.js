@@ -27,11 +27,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://www.instagram.com/ivantheo159'
-global.syt = 'https://youtube.com/channel/UCUmkGSW0FF6OyJ9x5uLal5g'
-global.sgh = 'https://github.com/'
+global.sig = 'https://www.instagram.com/dityabotz?r=nametag'
+global.syt = 'https://youtu.be/pwLZpdfO8AU'
+global.sgh = 'https://github.com/NathalieeBotz'
 global.sgc = 'https://chat.whatsapp.com/EPmjuw9X1wZDGX1p4NCV1e'
-global.swa = 'wa.me/6285876830674'
+global.swa = 'wa.me/6281226512906'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -44,15 +44,15 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62858-09011357'
-global.nomorown = '6285876830674'
-global.namebot = 'Sansbot'
-global.nameown = 'Ivan'
+global.nomorbot = '6281316235253'
+global.nomorown = '6281226512906'
+global.namebot = 'Ramz-BOT ラ'
+global.nameown = 'Nathalieea Azzahra×፝֟͜×'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['0', '0', '0'], 
+  ['6281226512906', 'ᴹᴿ᭄Adit ×፝֟͜×', 'true'], 
   ['6285876830674', '🗿☕', 'false'], 
   ['6285809011357', '🗿👍', 'true']
   // [number, dia creator/owner?, dia developer?]
@@ -104,39 +104,39 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Sansbot | By ivan' //Main Watermark
-global.wm2 = 'Ivan'
-global.wm3 = 'sansbot | By Ivan'
+global.wm = 'Ramz-BOT | By ᴹᴿ᭄ Adit ×፝֟͜×' //Main Watermark
+global.wm2 = 'ᴹᴿ᭄Nathalieea ×፝֟͜×'
+global.wm3 = 'Nathaliee | By ᴹᴿ᭄ AditGanz×'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Sansbot | ʙʏ ${global.nameown}`
-global.author = 'ivan' 
-global.packname = 'Ivan'
-global.danied = 'ga boleh mas bro'
-global.ultahowner = 'September 10 2023'
+global.titlebot = `Nathaliee | ʙʏ ${global.nameown}`
+global.author = 'Nathaliee͜×' 
+global.packname = 'Nathalieea Azzahra×'
+global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
+global.ultahowner = 'Maret 14 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
-global.imagebot = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
-global.giflogo = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
-global.giflogo2 = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
-global.thumbs = ['https://telegra.ph/file/2cb377366f990d128aede.jpg']
+global.thumb = 'https://telegra.ph/file/2b0d63ebb4d74d5350a2c.jpg'
+global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
+global.giflogo = 'https://telegra.ph/file/079b29517ff3177dc9f8e.jpg'
+global.giflogo2 = 'https://telegra.ph/file/2b0d63ebb4d74d5350a2c.jpg'
+global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya SANSBOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *IVAN ×፝֟͜×*'
-global.intro = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
+global.botintro = 'Hallo, Kenalin saya RamZ-BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ KingOfBears ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro = 'https://telegra.ph/file/2b0d63ebb4d74d5350a2c.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'IVAN'
-global.umurowner = '16'
-global.asalowner = 'Indonesia, Jawa Tengah'
-global.nomorowner = 'wa.me/6285876830674'
-global.pacarowner ='N'
+global.nameowner = 'AditGanz×፝֟͜×'
+global.umurowner = '15'
+global.asalowner = 'Indonesia, Kalimantan Timur'
+global.nomorowner = 'wa.me/6281226512906'
+global.pacarowner ='Nathalieea Azzahra×'
 
 /*============== TEXT ==============*/
-global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜 mas bro...```'
-global.eror = '```𝙉𝙤𝙩 𝙁𝙤𝙪𝙣𝙙 𝟰𝟬𝟰 𝙀𝙧𝙤𝙧 mas bro```'
+global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
+global.eror = '```𝙉𝙤𝙩 𝙁𝙤𝙪𝙣𝙙 𝟰𝟬𝟰 𝙀𝙧𝙤𝙧```'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -145,7 +145,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/2cb377366f990d128aede.jpg'
+global.thumbdoc = 'https://telegra.ph/file/2b0d63ebb4d74d5350a2c.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -381,7 +381,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `Ivan`
+global.stickauth = `Nathaliee Azzahra×`
 
 global.multiplier = 38 // The higher, The harder levelup
 
